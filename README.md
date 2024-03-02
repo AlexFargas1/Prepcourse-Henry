@@ -1,2 +1,2 @@
-# Prepcourse-Henry
-Repositorio de prueba de curso de Henry parte 2
+Alejandro Fraga
+como descargar un repositorio y clonarlo a mi repositorio local
